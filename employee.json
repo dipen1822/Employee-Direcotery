@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Dipen",
+      "email":"dipen@gmail.com",
+      "contact":"9876543210",
+      "department": "Engineering",
+      "image": "/images/img1.jpg"
+      
+    },
+    {
+      "id": 2,
+      "name": "Nikunj",
+      "email":"nikunj@gmail.com",
+      "contact":"9870984321",
+      "department": "HR",
+      "image": "/images/img2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Neel",
+        "email":"neel@gmail.com",
+        "contact":"765432098",
+        "department": "Finance",
+        "image": "/images/img3.jpg"
+      },{
+        "id": 4,
+        "name": "Abhay",
+        "email":"abhay@gmail.com",
+        "contact":"7876543211",
+        "department": "Marketing",
+        "image": "/images/img4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Meet",
+        "email":"meet@gmail.com",
+        "contact":"999888521",
+        "department": "Sales",
+        "image": "/images/img5.jpg"
+      },
+      {
+          "id": 6,
+          "name": "Jay",
+          "email":"jay@gmail.com",
+          "contact":"7654320987",
+          "department": "Management",
+          "image": "/images/img6.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Jeet",
+          "email":"jeet@gmail.com",
+          "contact":"6543210987",
+          "department": "Computer",
+          "image": "/images/img7.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Kunj",
+          "email":"kunj@gmail.com",
+          "contact":"9876543200",
+          "department": "Mechanical",
+          "image": "/images/img8.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Yash",
+            "email":"yash@gmail.com",
+            "contact":"876512209",
+            "department": "Marketing",
+            "image": "/images/img9.jpg"
+          },
+          {
+            "id": 10,
+            "name": "Parth",
+            "email":"parth@gmail.com",
+            "contact":"0987654333",
+            "department": "Accounting",
+            "image": "/images/img10.jpg"
+          }
+  ]
+  
